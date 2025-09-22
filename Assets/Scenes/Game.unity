@@ -1005,8 +1005,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   groundManager: {fileID: 1488448000}
   rainManager: {fileID: 953660984}
-  bentSprite: {fileID: -7890786166575232085, guid: 945ff2ceb561027498cf36a4c73ca3c7, type: 3}
-  straightSprite: {fileID: 2451020841640422197, guid: 945ff2ceb561027498cf36a4c73ca3c7, type: 3}
+  bentSprite: {fileID: 9127475345020556893, guid: a88c2f66a3231b34095b5775bc6f75b7, type: 3}
+  straightSprite: {fileID: -5397713429026748493, guid: a88c2f66a3231b34095b5775bc6f75b7, type: 3}
   airPushEffectPrefab: {fileID: 7675953859723226298, guid: 0414f0fa52ac2b4458e1729bf24bc1d0, type: 3}
   groundDustEffectPrefab: {fileID: 4275958701805263108, guid: 689fa398358ab6843b577a90169cc75b, type: 3}
   effectSpawnPoint: {fileID: 537914745}
